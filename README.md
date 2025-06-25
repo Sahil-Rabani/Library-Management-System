@@ -18,5 +18,6 @@ This is a simple Java-based console application to manage a library system.
 3. Run: `java LibraryManagementSystem`
 
 ## Author
+Sahil Rabani
 
 Created for learning purposes. Ideal for intermediate Java practice.
