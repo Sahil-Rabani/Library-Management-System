@@ -1,4 +1,3 @@
 Java SE 8 or higher
 No external libraries needed
 Platform-independent (console-based)
-gunicorn
